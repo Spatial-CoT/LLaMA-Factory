@@ -1,0 +1,4127 @@
+[
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the table and facing the trash bin, is the window to my front-left, front-right, back-left, or back-right?\nThe directions refer to the quadrants of a Cartesian plane (if I am standing at the origin and facing along the positive y-axis).\nOptions:\nA. back-right\nB. back-left\nC. front-right\nD. front-left\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "D",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0373_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, which of these objects (trash bin, bookshelf, pillow, chair) is the closest to the printer?\nIf there are multiple instances of an object category, measure to the closest.\nOptions:\nA. trash bin\nB. bookshelf\nC. pillow\nD. chair\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0166_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the heater, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/4ba22fa7e4/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the refrigerator and facing the sofa, is the nightstand to my front-left, front-right, back-left, or back-right?\nThe directions refer to the quadrants of a Cartesian plane (if I am standing at the origin and facing along the positive y-axis).\nOptions:\nA. back-left\nB. front-right\nC. front-left\nD. back-right\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0472_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, which of these objects (ceiling lamp, soap dispenser, door, light switch) is the closest to the blinds?\nIf there are multiple instances of an object category, measure to the closest.\nOptions:\nA. ceiling lamp\nB. soap dispenser\nC. door\nD. light switch\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/210f741378/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the fan and the backpack (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0673_03.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the clock, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "D",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0302_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, which of these objects (computer mouse, desk, monitor, keyboard) is the closest to the door?\nIf there are multiple instances of an object category, measure to the closest.\nOptions:\nA. computer mouse\nB. desk\nC. monitor\nD. keyboard\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0505_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the picture, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/50809ea0d8/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the poster, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/b97261909e/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the door, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/fb05e13ad1/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nHow many lamp(s) are in this room?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "4",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0279_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nHow many chair(s) are in this room?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "2",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/69e5939669/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nHow many door(s) are in this room?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "4",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/b97261909e/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nHow many window(s) are in this room?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "2",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0452_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the size of this room (in square meters)? \nIf multiple rooms are shown, estimate the size of the combined space.\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0603_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the window and the table (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "D",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0070_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nHow many ceiling lamp(s) are in this room?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "4",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/5a269ba6fe/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the door and facing the trash bin, is the mirror to the left or the right of the trash bin?\nOptions:\nA. left\nB. right\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0265_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the trash bin, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "D",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0158_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the door and the desk (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "D",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0211_03.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, which of these objects (ceiling lamp, table, telephone, blinds) is the closest to the sink?\nIf there are multiple instances of an object category, measure to the closest.\nOptions:\nA. ceiling lamp\nB. table\nC. telephone\nD. blinds\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/1d003b07bd/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nHow many computer tower(s) are in this room?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "4",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/87f6d7d564/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the bed and the storage cabinet (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/e8ea9b4da8/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the desk and facing the bookshelf, is the pillow to my left, right, or back?\nAn object is to my back if I would have to turn at least 135 degrees in order to face it.\nOptions:\nA. right\nB. back\nC. left\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0272_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the cabinet and the smoke detector (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/646af5e14b/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the nightstand and facing the door, is the radiator to my front-left, front-right, back-left, or back-right?\nThe directions refer to the quadrants of a Cartesian plane (if I am standing at the origin and facing along the positive y-axis).\nOptions:\nA. front-left\nB. back-right\nC. front-right\nD. back-left\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "D",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0385_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, which of these objects (bed, window, nightstand, pillow) is the closest to the radiator?\nIf there are multiple instances of an object category, measure to the closest.\nOptions:\nA. bed\nB. window\nC. nightstand\nD. pillow\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0600_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nHow many keyboard(s) are in this room?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "5",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/b20a261fdf/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, which of these objects (monitor, socket, curtain, office chair) is the closest to the shoes?\nIf there are multiple instances of an object category, measure to the closest.\nOptions:\nA. monitor\nB. socket\nC. curtain\nD. office chair\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "D",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/4a1a3a7dc5/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, which of these objects (telephone, plant, desk, keyboard) is the closest to the door?\nIf there are multiple instances of an object category, measure to the closest.\nOptions:\nA. telephone\nB. plant\nC. desk\nD. keyboard\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0380_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the bookshelf and facing the window, is the mirror to my left, right, or back?\nAn object is to my back if I would have to turn at least 135 degrees in order to face it.\nOptions:\nA. back\nB. right\nC. left\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0576_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, which of these objects (piano, bookshelf, sofa, chair) is the closest to the tv?\nIf there are multiple instances of an object category, measure to the closest.\nOptions:\nA. piano\nB. bookshelf\nC. sofa\nD. chair\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0672_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nHow many chair(s) are in this room?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "3",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0299_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the sofa and facing the closet, is the radiator to my left, right, or back?\nAn object is to my back if I would have to turn at least 135 degrees in order to face it.\nOptions:\nA. right\nB. back\nC. left\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0162_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the size of this room (in square meters)? \nIf multiple rooms are shown, estimate the size of the combined space.\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/646af5e14b/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, which of these objects (refrigerator, counter, table, microwave) is the closest to the bed?\nIf there are multiple instances of an object category, measure to the closest.\nOptions:\nA. refrigerator\nB. counter\nC. table\nD. microwave\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0640_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the sink and facing the ceiling lamp, is the door to the left or the right of the ceiling lamp?\nOptions:\nA. right\nB. left\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/0a5c013435/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the door and facing the trash bin, is the keyboard to my front-left, front-right, back-left, or back-right?\nThe directions refer to the quadrants of a Cartesian plane (if I am standing at the origin and facing along the positive y-axis).\nOptions:\nA. front-left\nB. back-left\nC. back-right\nD. front-right\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "D",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0238_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, which of these objects (microwave, door, refrigerator, radiator) is the closest to the trash bin?\nIf there are multiple instances of an object category, measure to the closest.\nOptions:\nA. microwave\nB. door\nC. refrigerator\nD. radiator\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0498_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the chair, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0092_03.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the microwave and the refrigerator (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0347_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, which of these objects (spray bottle, keyboard, cabinet, light switch) is the closest to the monitor?\nIf there are multiple instances of an object category, measure to the closest.\nOptions:\nA. spray bottle\nB. keyboard\nC. cabinet\nD. light switch\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/f248c2bcdc/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the sink, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/8890d0a267/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the counter and facing the door, is the trash bin to my front-left, front-right, back-left, or back-right?\nThe directions refer to the quadrants of a Cartesian plane (if I am standing at the origin and facing along the positive y-axis).\nOptions:\nA. back-right\nB. back-left\nC. front-left\nD. front-right\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0195_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the size of this room (in square meters)? \nIf multiple rooms are shown, estimate the size of the combined space.\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "D",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0008_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nHow many table(s) are in this room?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "2",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0622_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nHow many window(s) are in this room?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "5",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/39f36da05b/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nHow many heater(s) are in this room?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "2",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/785e7504b9/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the towel and facing the refrigerator, is the trash bin to the left or the right of the refrigerator?\nOptions:\nA. left\nB. right\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0137_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the window, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "D",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0547_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, which of these objects (book, curtain, computer tower, office chair) is the closest to the file folder?\nIf there are multiple instances of an object category, measure to the closest.\nOptions:\nA. book\nB. curtain\nC. computer tower\nD. office chair\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/1366d5ae89/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the cabinet and facing the heater, is the bottle to my left, right, or back?\nAn object is to my back if I would have to turn at least 135 degrees in order to face it.\nOptions:\nA. right\nB. left\nC. back\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/8e6ff28354/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the size of this room (in square meters)? \nIf multiple rooms are shown, estimate the size of the combined space.\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0269_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, which of these objects (trash bin, bed, window, chair) is the closest to the door?\nIf there are multiple instances of an object category, measure to the closest.\nOptions:\nA. trash bin\nB. bed\nC. window\nD. chair\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "D",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0321_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the washing machine and the door (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0232_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the door and the window (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "D",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0398_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the printer, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0336_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nHow many computer tower(s) are in this room?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "2",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/c0c863b72d/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the toilet and the bed (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/324d07a5b3/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, which of these objects (monitor, window, trash bin, door) is the closest to the printer?\nIf there are multiple instances of an object category, measure to the closest.\nOptions:\nA. monitor\nB. window\nC. trash bin\nD. door\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0592_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, which of these objects (trash bin, desk, bed, nightstand) is the closest to the mirror?\nIf there are multiple instances of an object category, measure to the closest.\nOptions:\nA. trash bin\nB. desk\nC. bed\nD. nightstand\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0642_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the nightstand and the tv (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0677_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nHow many table(s) are in this room?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "2",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0472_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the radiator and the door (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0359_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the chair and facing the window, is the nightstand to my front-left, front-right, back-left, or back-right?\nThe directions refer to the quadrants of a Cartesian plane (if I am standing at the origin and facing along the positive y-axis).\nOptions:\nA. back-left\nB. front-left\nC. back-right\nD. front-right\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0157_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nHow many window(s) are in this room?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "2",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0302_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, which of these objects (towel, table, desk, printer) is the closest to the pillow?\nIf there are multiple instances of an object category, measure to the closest.\nOptions:\nA. towel\nB. table\nC. desk\nD. printer\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0054_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the size of this room (in square meters)? \nIf multiple rooms are shown, estimate the size of the combined space.\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0099_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the table, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0006_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the cabinet, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/1b75758486/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nHow many door(s) are in this room?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "3",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0556_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, which of these objects (sofa, pillow, chair, plant) is the closest to the window?\nIf there are multiple instances of an object category, measure to the closest.\nOptions:\nA. sofa\nB. pillow\nC. chair\nD. plant\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0326_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, which of these objects (table, sofa, window, chair) is the closest to the tv?\nIf there are multiple instances of an object category, measure to the closest.\nOptions:\nA. table\nB. sofa\nC. window\nD. chair\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0061_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, which of these objects (table, backpack, pillow, plant) is the closest to the tv?\nIf there are multiple instances of an object category, measure to the closest.\nOptions:\nA. table\nB. backpack\nC. pillow\nD. plant\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "D",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0312_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the size of this room (in square meters)? \nIf multiple rooms are shown, estimate the size of the combined space.\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/419cbe7c11/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nHow many washing machine(s) are in this room?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "2",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0650_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the bed and the book (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/0a184cf634/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the bed, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0376_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the tap, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/6f1848d1e3/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nHow many chair(s) are in this room?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "6",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0189_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nHow many monitor(s) are in this room?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "2",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0114_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the lamp, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "D",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0654_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the desk, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0677_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the mouse and facing the cutting board, is the container to the left or the right of the cutting board?\nOptions:\nA. right\nB. left\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/6464461276/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the jacket, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/0a76e06478/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the mirror and the door (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0509_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the radiator and the chair (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "D",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0157_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the radiator and the sofa (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0181_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the tv, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0137_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nHow many heater(s) are in this room?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "2",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/07ff1c45bb/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the radiator and facing the desk, is the telephone to my front-left, front-right, back-left, or back-right?\nThe directions refer to the quadrants of a Cartesian plane (if I am standing at the origin and facing along the positive y-axis).\nOptions:\nA. back-left\nB. front-left\nC. back-right\nD. front-right\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0223_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nHow many door(s) are in this room?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "2",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0646_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the telephone and the radiator (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "D",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0114_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the slippers and facing the toilet, is the kettle to my front-left, front-right, back-left, or back-right?\nThe directions refer to the quadrants of a Cartesian plane (if I am standing at the origin and facing along the positive y-axis).\nOptions:\nA. back-right\nB. front-right\nC. front-left\nD. back-left\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/39e6ee46df/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, which of these objects (bookshelf, window, monitor, keyboard) is the closest to the clock?\nIf there are multiple instances of an object category, measure to the closest.\nOptions:\nA. bookshelf\nB. window\nC. monitor\nD. keyboard\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0614_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the bed, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/8be0cd3817/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the table and facing the desk, is the door to my front-left, front-right, back-left, or back-right?\nThe directions refer to the quadrants of a Cartesian plane (if I am standing at the origin and facing along the positive y-axis).\nOptions:\nA. front-left\nB. front-right\nC. back-left\nD. back-right\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0010_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, which of these objects (counter, guitar, sofa, trash bin) is the closest to the microwave?\nIf there are multiple instances of an object category, measure to the closest.\nOptions:\nA. counter\nB. guitar\nC. sofa\nD. trash bin\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0515_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nHow many bed(s) are in this room?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "2",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0340_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the door, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "D",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0384_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the radiator and the bed (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0457_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the nightstand and the lamp (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0656_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the tv, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/bc2fce1d81/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the trash bin and the door (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "D",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0097_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the toilet paper and the heater (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "D",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/cf1ffd871d/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the door and facing the trash bin, is the telephone to my front-left, front-right, back-left, or back-right?\nThe directions refer to the quadrants of a Cartesian plane (if I am standing at the origin and facing along the positive y-axis).\nOptions:\nA. front-left\nB. back-right\nC. front-right\nD. back-left\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0352_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nHow many cabinet(s) are in this room?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "9",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/355e5e32db/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the power strip and facing the door, is the blinds to my front-left, front-right, back-left, or back-right?\nThe directions refer to the quadrants of a Cartesian plane (if I am standing at the origin and facing along the positive y-axis).\nOptions:\nA. front-left\nB. back-left\nC. front-right\nD. back-right\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/2b1dc6d6a5/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the table, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "D",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0630_05.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the trash bin and the refrigerator (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0137_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nHow many box(s) are in this room?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "7",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/a29cccc784/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, which of these objects (tv, refrigerator, sofa, microwave) is the closest to the keyboard?\nIf there are multiple instances of an object category, measure to the closest.\nOptions:\nA. tv\nB. refrigerator\nC. sofa\nD. microwave\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/a4e227f506/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, which of these objects (window, backpack, bed, container) is the closest to the picture?\nIf there are multiple instances of an object category, measure to the closest.\nOptions:\nA. window\nB. backpack\nC. bed\nD. container\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/6464461276/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the sofa, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0547_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the monitor and the chair (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0174_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nHow many bed(s) are in this room?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "2",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0416_03.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the whiteboard, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/a1d9da703c/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, which of these objects (bottle, heater, monitor, book) is the closest to the whiteboard?\nIf there are multiple instances of an object category, measure to the closest.\nOptions:\nA. bottle\nB. heater\nC. monitor\nD. book\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/c06a983e63/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, which of these objects (cabinet, telephone, whiteboard eraser, chair) is the closest to the window?\nIf there are multiple instances of an object category, measure to the closest.\nOptions:\nA. cabinet\nB. telephone\nC. whiteboard eraser\nD. chair\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/b08a908f0f/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the table and facing the telephone, is the trash can to my left, right, or back?\nAn object is to my back if I would have to turn at least 135 degrees in order to face it.\nOptions:\nA. right\nB. left\nC. back\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/80ffca8a48/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nHow many keyboard(s) are in this room?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "4",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/355e5e32db/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the bottle and facing the heater, is the tv to the left or the right of the heater?\nOptions:\nA. left\nB. right\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/8e6ff28354/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nHow many chair(s) are in this room?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "3",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0489_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the refrigerator, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0137_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, which of these objects (exhaust fan, light switch, toilet paper, soap dispenser) is the closest to the door?\nIf there are multiple instances of an object category, measure to the closest.\nOptions:\nA. exhaust fan\nB. light switch\nC. toilet paper\nD. soap dispenser\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/b1d75ecd55/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the backpack and the sofa (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0024_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nHow many window(s) are in this room?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "3",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/646af5e14b/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the counter, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0311_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the tv and the bed (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0308_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, which of these objects (backpack, bed, window, door) is the closest to the fan?\nIf there are multiple instances of an object category, measure to the closest.\nOptions:\nA. backpack\nB. bed\nC. window\nD. door\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0271_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the smoke detector, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/d6d9ddb03f/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nHow many trash bin(s) are in this room?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "2",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0420_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nHow many plant(s) are in this room?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "3",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/55b2bf8036/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the door and facing the trash bin, is the telephone to the left or the right of the trash bin?\nOptions:\nA. left\nB. right\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0625_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the counter, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "D",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0529_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nHow many trash bin(s) are in this room?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "2",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0694_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, which of these objects (keyboard, window, desk, radiator) is the closest to the door?\nIf there are multiple instances of an object category, measure to the closest.\nOptions:\nA. keyboard\nB. window\nC. desk\nD. radiator\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0238_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the monitor and facing the clock, is the lamp to my left, right, or back?\nAn object is to my back if I would have to turn at least 135 degrees in order to face it.\nOptions:\nA. back\nB. right\nC. left\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0262_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the table and facing the backpack, is the door to my front-left, front-right, back-left, or back-right?\nThe directions refer to the quadrants of a Cartesian plane (if I am standing at the origin and facing along the positive y-axis).\nOptions:\nA. front-right\nB. back-right\nC. back-left\nD. front-left\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0212_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the tv and facing the door, is the backpack to my left, right, or back?\nAn object is to my back if I would have to turn at least 135 degrees in order to face it.\nOptions:\nA. left\nB. back\nC. right\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0388_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the counter, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0590_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, which of these objects (table, window, chair, radiator) is the closest to the door?\nIf there are multiple instances of an object category, measure to the closest.\nOptions:\nA. table\nB. window\nC. chair\nD. radiator\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0514_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the microwave and facing the desk, is the trash bin to my front-left, front-right, back-left, or back-right?\nThe directions refer to the quadrants of a Cartesian plane (if I am standing at the origin and facing along the positive y-axis).\nOptions:\nA. front-right\nB. back-left\nC. front-left\nD. back-right\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0425_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the tv, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0006_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the pillow and facing the desk, is the trash bin to my front-left, front-right, back-left, or back-right?\nThe directions refer to the quadrants of a Cartesian plane (if I am standing at the origin and facing along the positive y-axis).\nOptions:\nA. front-left\nB. back-right\nC. back-left\nD. front-right\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "D",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0092_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the poster and facing the whiteboard eraser, is the soap dispenser to my left, right, or back?\nAn object is to my back if I would have to turn at least 135 degrees in order to face it.\nOptions:\nA. right\nB. left\nC. back\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/98b4ec142f/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, which of these objects (door, tv, pillow, lamp) is the closest to the refrigerator?\nIf there are multiple instances of an object category, measure to the closest.\nOptions:\nA. door\nB. tv\nC. pillow\nD. lamp\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0642_03.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the window, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/8a20d62ac0/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the window and facing the table, is the backpack to my front-left, front-right, back-left, or back-right?\nThe directions refer to the quadrants of a Cartesian plane (if I am standing at the origin and facing along the positive y-axis).\nOptions:\nA. back-left\nB. front-right\nC. back-right\nD. front-left\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0666_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, which of these objects (bed, tissue box, chair, table) is the closest to the door?\nIf there are multiple instances of an object category, measure to the closest.\nOptions:\nA. bed\nB. tissue box\nC. chair\nD. table\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/6b40d1a939/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nHow many chair(s) are in this room?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "5",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0093_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the keyboard, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/ef69d58016/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the chair and facing the counter, is the door to my left, right, or back?\nAn object is to my back if I would have to turn at least 135 degrees in order to face it.\nOptions:\nA. right\nB. back\nC. left\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0115_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the size of this room (in square meters)? \nIf multiple rooms are shown, estimate the size of the combined space.\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0038_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nHow many telephone(s) are in this room?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "2",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0679_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the door and facing the trash bin, is the mirror to my front-left, front-right, back-left, or back-right?\nThe directions refer to the quadrants of a Cartesian plane (if I am standing at the origin and facing along the positive y-axis).\nOptions:\nA. front-left\nB. front-right\nC. back-right\nD. back-left\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0195_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the bed and facing the window, is the mirror to my left, right, or back?\nAn object is to my back if I would have to turn at least 135 degrees in order to face it.\nOptions:\nA. left\nB. right\nC. back\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0506_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, which of these objects (chair, refrigerator, counter, towel) is the closest to the tv?\nIf there are multiple instances of an object category, measure to the closest.\nOptions:\nA. chair\nB. refrigerator\nC. counter\nD. towel\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0335_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the size of this room (in square meters)? \nIf multiple rooms are shown, estimate the size of the combined space.\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0603_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, which of these objects (bed, telephone, chair, door) is the closest to the backpack?\nIf there are multiple instances of an object category, measure to the closest.\nOptions:\nA. bed\nB. telephone\nC. chair\nD. door\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "D",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0556_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the whiteboard and facing the blanket, is the smoke detector to my front-left, front-right, back-left, or back-right?\nThe directions refer to the quadrants of a Cartesian plane (if I am standing at the origin and facing along the positive y-axis).\nOptions:\nA. front-right\nB. back-right\nC. back-left\nD. front-left\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "D",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/a5114ca13d/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nHow many box(s) are in this room?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "3",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/1831b3823a/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the tv, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0061_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the keyboard and the bed (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "D",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0425_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the heater and the office chair (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/1ae9e5d2a6/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nHow many monitor(s) are in this room?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "4",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/394a542a19/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nHow many chair(s) are in this room?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "4",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0325_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the window, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/40b56bf310/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the lamp and the door (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0271_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the sofa and facing the bookshelf, is the refrigerator to my front-left, front-right, back-left, or back-right?\nThe directions refer to the quadrants of a Cartesian plane (if I am standing at the origin and facing along the positive y-axis).\nOptions:\nA. back-left\nB. back-right\nC. front-right\nD. front-left\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0529_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the window and facing the chair, is the nightstand to my left, right, or back?\nAn object is to my back if I would have to turn at least 135 degrees in order to face it.\nOptions:\nA. left\nB. right\nC. back\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0092_03.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nHow many mirror(s) are in this room?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "2",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0350_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, which of these objects (door, backpack, sofa, refrigerator) is the closest to the table?\nIf there are multiple instances of an object category, measure to the closest.\nOptions:\nA. door\nB. backpack\nC. sofa\nD. refrigerator\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0059_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the oven and the table (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0465_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the door and facing the mirror, is the trash bin to the left or the right of the mirror?\nOptions:\nA. right\nB. left\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0501_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the telephone and facing the backpack, is the trash bin to my front-left, front-right, back-left, or back-right?\nThe directions refer to the quadrants of a Cartesian plane (if I am standing at the origin and facing along the positive y-axis).\nOptions:\nA. front-left\nB. back-right\nC. front-right\nD. back-left\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0340_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the refrigerator and facing the radiator, is the telephone to my front-left, front-right, back-left, or back-right?\nThe directions refer to the quadrants of a Cartesian plane (if I am standing at the origin and facing along the positive y-axis).\nOptions:\nA. back-right\nB. back-left\nC. front-right\nD. front-left\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0235_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the heater, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "D",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/e1b1d9de55/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the door and facing the window, is the trash bin to my left, right, or back?\nAn object is to my back if I would have to turn at least 135 degrees in order to face it.\nOptions:\nA. right\nB. left\nC. back\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0448_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the door, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "D",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/9b74afd2d2/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the backpack and the bookshelf (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0332_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the door and facing the telephone, is the trash bin to my front-left, front-right, back-left, or back-right?\nThe directions refer to the quadrants of a Cartesian plane (if I am standing at the origin and facing along the positive y-axis).\nOptions:\nA. back-right\nB. front-right\nC. front-left\nD. back-left\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0625_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the pillow, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0604_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the desk and facing the pillow, is the trash bin to my front-left, front-right, back-left, or back-right?\nThe directions refer to the quadrants of a Cartesian plane (if I am standing at the origin and facing along the positive y-axis).\nOptions:\nA. back-right\nB. back-left\nC. front-right\nD. front-left\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "D",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0092_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nHow many towel(s) are in this room?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "2",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0175_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the microwave, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0117_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the cup and the kettle (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/7e09430da7/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the door and the table (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0388_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the sofa, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0654_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the piano and the pillow (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "D",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0016_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the size of this room (in square meters)? \nIf multiple rooms are shown, estimate the size of the combined space.\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/bd9305480d/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nHow many plant(s) are in this room?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "2",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/c413b34238/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the door and the refrigerator (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "D",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0529_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the radiator, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0554_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the tv and facing the window, is the trash bin to my front-left, front-right, back-left, or back-right?\nThe directions refer to the quadrants of a Cartesian plane (if I am standing at the origin and facing along the positive y-axis).\nOptions:\nA. front-left\nB. back-right\nC. front-right\nD. back-left\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0289_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nHow many monitor(s) are in this room?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "4",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/75d29d69b8/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the desk, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "D",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0177_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the whiteboard and facing the table, is the door to my front-left, front-right, back-left, or back-right?\nThe directions refer to the quadrants of a Cartesian plane (if I am standing at the origin and facing along the positive y-axis).\nOptions:\nA. front-left\nB. back-left\nC. front-right\nD. back-right\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/75d29d69b8/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the refrigerator and facing the telephone, is the trash bin to my left, right, or back?\nAn object is to my back if I would have to turn at least 135 degrees in order to face it.\nOptions:\nA. back\nB. left\nC. right\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0340_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, which of these objects (keyboard, bottle, table, monitor) is the closest to the bookshelf?\nIf there are multiple instances of an object category, measure to the closest.\nOptions:\nA. keyboard\nB. bottle\nC. table\nD. monitor\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/30f4a2b44d/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the heater and the trash can (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/1831b3823a/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the container and the sink (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/47b37eb6f9/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nHow many chair(s) are in this room?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "11",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/07ff1c45bb/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nHow many office chair(s) are in this room?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "2",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/c24f94007b/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the backpack and the sofa (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0141_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the bag and facing the door, is the shoes to my front-left, front-right, back-left, or back-right?\nThe directions refer to the quadrants of a Cartesian plane (if I am standing at the origin and facing along the positive y-axis).\nOptions:\nA. back-left\nB. back-right\nC. front-right\nD. front-left\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/893fb90e89/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the mirror, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0062_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, which of these objects (closet, bookshelf, door, mirror) is the closest to the nightstand?\nIf there are multiple instances of an object category, measure to the closest.\nOptions:\nA. closet\nB. bookshelf\nC. door\nD. mirror\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0051_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the telephone, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "D",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/1ae9e5d2a6/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the size of this room (in square meters)? \nIf multiple rooms are shown, estimate the size of the combined space.\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0505_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nHow many table(s) are in this room?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "2",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0525_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the whiteboard and facing the heater, is the door to my left, right, or back?\nAn object is to my back if I would have to turn at least 135 degrees in order to face it.\nOptions:\nA. left\nB. back\nC. right\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/f6659a3107/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the sofa and facing the telephone, is the door to my front-left, front-right, back-left, or back-right?\nThe directions refer to the quadrants of a Cartesian plane (if I am standing at the origin and facing along the positive y-axis).\nOptions:\nA. back-left\nB. front-left\nC. back-right\nD. front-right\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "D",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0352_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the table, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "D",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0058_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nHow many door(s) are in this room?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "2",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/4422722c49/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the keyboard and facing the bottle, is the smoke detector to my front-left, front-right, back-left, or back-right?\nThe directions refer to the quadrants of a Cartesian plane (if I am standing at the origin and facing along the positive y-axis).\nOptions:\nA. front-left\nB. back-right\nC. back-left\nD. front-right\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/faec2f0468/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nHow many pillow(s) are in this room?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "6",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0642_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the blinds and facing the bag, is the bottle to my front-left, front-right, back-left, or back-right?\nThe directions refer to the quadrants of a Cartesian plane (if I am standing at the origin and facing along the positive y-axis).\nOptions:\nA. back-left\nB. front-left\nC. back-right\nD. front-right\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/c413b34238/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the light switch and facing the ceiling lamp, is the spray bottle to my left, right, or back?\nAn object is to my back if I would have to turn at least 135 degrees in order to face it.\nOptions:\nA. left\nB. back\nC. right\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/c856c41c99/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the backpack and facing the sink, is the paper towel to my left, right, or back?\nAn object is to my back if I would have to turn at least 135 degrees in order to face it.\nOptions:\nA. right\nB. left\nC. back\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/7cd2ac43b4/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the cup and facing the laptop, is the sink to my left, right, or back?\nAn object is to my back if I would have to turn at least 135 degrees in order to face it.\nOptions:\nA. right\nB. back\nC. left\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/6f1848d1e3/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the kettle and the door (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "D",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/320c3af000/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the bookshelf and the window (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "D",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0359_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the telephone and the backpack (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0508_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the bed and facing the chair, is the nightstand to my left, right, or back?\nAn object is to my back if I would have to turn at least 135 degrees in order to face it.\nOptions:\nA. back\nB. right\nC. left\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0259_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the cabinet and facing the plant, is the whiteboard eraser to my front-left, front-right, back-left, or back-right?\nThe directions refer to the quadrants of a Cartesian plane (if I am standing at the origin and facing along the positive y-axis).\nOptions:\nA. back-right\nB. front-left\nC. front-right\nD. back-left\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/ed2216380b/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the window and facing the washing machine, is the backpack to my left, right, or back?\nAn object is to my back if I would have to turn at least 135 degrees in order to face it.\nOptions:\nA. right\nB. left\nC. back\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0417_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the trash bin and the towel (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0250_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, which of these objects (radiator, lamp, chair, sofa) is the closest to the refrigerator?\nIf there are multiple instances of an object category, measure to the closest.\nOptions:\nA. radiator\nB. lamp\nC. chair\nD. sofa\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0279_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the radiator, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0362_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the trash bin and the bed (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "D",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0073_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the size of this room (in square meters)? \nIf multiple rooms are shown, estimate the size of the combined space.\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "D",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0498_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, which of these objects (table, monitor, window, desk) is the closest to the trash bin?\nIf there are multiple instances of an object category, measure to the closest.\nOptions:\nA. table\nB. monitor\nC. window\nD. desk\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "D",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0592_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, which of these objects (window, sofa, chair, tv) is the closest to the door?\nIf there are multiple instances of an object category, measure to the closest.\nOptions:\nA. window\nB. sofa\nC. chair\nD. tv\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "D",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0008_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the sink and the toilet paper (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/e0de253456/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, which of these objects (mirror, counter, door, radiator) is the closest to the trash bin?\nIf there are multiple instances of an object category, measure to the closest.\nOptions:\nA. mirror\nB. counter\nC. door\nD. radiator\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "D",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0195_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the chair and facing the lamp, is the window to my left, right, or back?\nAn object is to my back if I would have to turn at least 135 degrees in order to face it.\nOptions:\nA. right\nB. back\nC. left\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0394_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, which of these objects (door, cabinet, box, table) is the closest to the jar?\nIf there are multiple instances of an object category, measure to the closest.\nOptions:\nA. door\nB. cabinet\nC. box\nD. table\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/ab046f8faf/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the mirror and facing the door, is the trash bin to my left, right, or back?\nAn object is to my back if I would have to turn at least 135 degrees in order to face it.\nOptions:\nA. back\nB. right\nC. left\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0434_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the radiator and the printer (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0186_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the trash bin, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0610_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the size of this room (in square meters)? \nIf multiple rooms are shown, estimate the size of the combined space.\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "D",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0133_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the chair and facing the bed, is the radiator to the left or the right of the bed?\nOptions:\nA. left\nB. right\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0035_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the radiator and the bed (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0400_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the keyboard, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0092_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, which of these objects (whiteboard, window, tv, heater) is the closest to the door?\nIf there are multiple instances of an object category, measure to the closest.\nOptions:\nA. whiteboard\nB. window\nC. tv\nD. heater\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/f6659a3107/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nHow many table(s) are in this room?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "5",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0281_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the window, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0253_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, which of these objects (bag, toilet paper, toilet, jacket) is the closest to the smoke detector?\nIf there are multiple instances of an object category, measure to the closest.\nOptions:\nA. bag\nB. toilet paper\nC. toilet\nD. jacket\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "D",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/cf1ffd871d/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the bed and facing the door, is the radiator to my left, right, or back?\nAn object is to my back if I would have to turn at least 135 degrees in order to face it.\nOptions:\nA. left\nB. right\nC. back\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0620_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, which of these objects (fan, window, chair, trash bin) is the closest to the table?\nIf there are multiple instances of an object category, measure to the closest.\nOptions:\nA. fan\nB. window\nC. chair\nD. trash bin\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0058_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the door and facing the trash bin, is the closet to my front-left, front-right, back-left, or back-right?\nThe directions refer to the quadrants of a Cartesian plane (if I am standing at the origin and facing along the positive y-axis).\nOptions:\nA. back-left\nB. back-right\nC. front-left\nD. front-right\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "D",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0073_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the exhaust fan and facing the shelf, is the blanket to my front-left, front-right, back-left, or back-right?\nThe directions refer to the quadrants of a Cartesian plane (if I am standing at the origin and facing along the positive y-axis).\nOptions:\nA. front-right\nB. front-left\nC. back-right\nD. back-left\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/bd7375297e/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nHow many lamp(s) are in this room?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "2",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0092_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the radiator and the door (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0620_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, which of these objects (lamp, pillow, nightstand, window) is the closest to the chair?\nIf there are multiple instances of an object category, measure to the closest.\nOptions:\nA. lamp\nB. pillow\nC. nightstand\nD. window\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0394_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, which of these objects (door, chair, closet, refrigerator) is the closest to the bookshelf?\nIf there are multiple instances of an object category, measure to the closest.\nOptions:\nA. door\nB. chair\nC. closet\nD. refrigerator\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0101_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the size of this room (in square meters)? \nIf multiple rooms are shown, estimate the size of the combined space.\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0263_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the desk, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0035_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nHow many chair(s) are in this room?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "5",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0630_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the chair, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/a5114ca13d/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the door and the chair (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "D",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0020_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the pillow, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0000_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the size of this room (in square meters)? \nIf multiple rooms are shown, estimate the size of the combined space.\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0141_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, which of these objects (crate, table, light switch, chair) is the closest to the microwave?\nIf there are multiple instances of an object category, measure to the closest.\nOptions:\nA. crate\nB. table\nC. light switch\nD. chair\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "D",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannetpp/data/61adeff7d5/iphone/rgb_compressed.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the pillow, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0517_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nIf I am standing by the door and facing the backpack, is the trash bin to the left or the right of the backpack?\nOptions:\nA. right\nB. left\nAnswer with the option's letter from the given choices directly.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0399_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the size of this room (in square meters)? \nIf multiple rooms are shown, estimate the size of the combined space.\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0270_00.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the door, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0630_03.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the chair and the bed (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "B",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0039_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the size of this room (in square meters)? \nIf multiple rooms are shown, estimate the size of the combined space.\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0449_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nMeasuring from the closest point of each object, what is the direct distance between the trash bin and the tv (in meters)?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "C",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0603_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the size of this room (in square meters)? \nIf multiple rooms are shown, estimate the size of the combined space.\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "A",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0163_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>These are frames of a video.\nWhat is the length of the longest dimension (length, width, or height) of the microwave, measured in centimeters?\nPlease answer the question using a single word or phrase.",
+                "role": "user"
+            },
+            {
+                "content": "D",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "/data_new/spatial/Training/videos/scannet/datasets/scans_videos/scene0327_00.mp4"
+        ]
+    }
+]

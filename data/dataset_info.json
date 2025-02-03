@@ -2,6 +2,20 @@
   "identity": {
     "file_name": "identity.json"
   },
+  "spatial_video": {
+    "file_name": "all_qa_sharegpt_0203_25percent.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "videos": "videos"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
   "alpaca_en_demo": {
     "file_name": "alpaca_en_demo.json"
   },
