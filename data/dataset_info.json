@@ -3,7 +3,7 @@
     "file_name": "identity.json"
   },
   "spatial_video": {
-    "file_name": "all_qa_sharegpt_0203_25percent.json",
+    "file_name": "all_qa_spatial_0204_25percent.json",
     "formatting": "sharegpt",
     "columns": {
       "messages": "messages",
